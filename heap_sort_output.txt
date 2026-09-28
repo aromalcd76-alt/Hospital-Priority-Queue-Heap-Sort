@@ -1,0 +1,14 @@
+HEAP SORT
+
+Input: 45 72 30 90 65 50 85
+
+Max Heap: 90 72 85 45 65 50 30
+
+After pass 1: 85 72 50 45 65 30 90
+After pass 2: 72 65 50 45 30 85 90
+After pass 3: 65 45 50 30 72 85 90
+After pass 4: 50 45 30 65 72 85 90
+After pass 5: 45 30 50 65 72 85 90
+After pass 6: 30 45 50 65 72 85 90
+
+Sorted Output: 30 45 50 65 72 85 90
