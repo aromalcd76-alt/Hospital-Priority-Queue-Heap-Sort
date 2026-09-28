@@ -1,0 +1,13 @@
+QUICK SORT
+
+Input: 45 72 30 90 65 50 85
+
+Intermediate Steps:
+
+Pivot 85: 45 72 30 65 50 85 90
+Pivot 50: 45 30 50 65 72 85 90
+Pivot 30: 30 45 50 65 72 85 90
+Pivot 72: 30 45 50 65 72 85 90
+Pivot 90: 30 45 50 65 72 85 90
+
+Sorted Output: 30 45 50 65 72 85 90
