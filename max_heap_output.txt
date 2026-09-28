@@ -1,0 +1,25 @@
+HOSPITAL PRIORITY QUEUE - MAX HEAP
+Higher severity = Higher priority
+
+--- MAX HEAP INSERTION ---
+
+Insert 45
+Heap: 45
+
+Insert 72
+Heap: 72 45
+
+Insert 30
+Heap: 72 45 30
+
+Insert 90
+Heap: 90 72 30 45
+
+Insert 65
+Heap: 90 72 30 45 65
+
+Insert 50
+Heap: 90 72 50 45 65 30
+
+Insert 85
+Heap: 90 72 85 45 65 30 50
